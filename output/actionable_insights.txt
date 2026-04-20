@@ -1,0 +1,7 @@
+Business Data Analysis Dashboard | Python, Excel | Mar 2026
+
+1) Total revenue is $1,292,400 with total profit of $485,600, indicating a healthy average margin of 37.33%.
+2) North is the top-performing region by profit ($152,000); replicate its commercial strategy in lower-performing regions.
+3) West has the lowest regional profit ($96,400); prioritize pricing, discount governance, and cost controls there.
+4) Alpha is the strongest product by profit ($168,400); increase inventory and marketing allocation for this line.
+5) Average customer satisfaction is 4.30/5.00; maintain product quality while targeting service uplift in underperforming segments.
